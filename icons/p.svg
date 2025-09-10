@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .bg { fill: #4f8cff; }
+      .glyph { fill: #ffffff; }
+    </style>
+  </defs>
+  <!-- Flat, rounded square background -->
+  <rect class="bg" x="32" y="32" width="448" height="448" rx="96" ry="96"/>
+  <!-- Bold "P" glyph -->
+  <path class="glyph" d="M192 128h108c72 0 120 40 120 100s-48 100-120 100h-52v56h-56V128zm104 144c39 0 64-18 64-44s-25-44-64-44h-48v88h48z"/>
+</svg>
+

@@ -1,0 +1,17 @@
+{
+  "name": "Quick Park",
+  "short_name": "Quick Park",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0c0f",
+  "theme_color": "#4f8cff",
+  "icons": [
+    {
+      "src": "/icons/p.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
