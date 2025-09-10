@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "framework": "other",
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/index.html" }
+  ]
+}
+
